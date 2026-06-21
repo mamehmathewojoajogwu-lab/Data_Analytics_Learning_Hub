@@ -1,6 +1,3 @@
-# Python Pandas Analysis
+## Projects
 
-This folder contains my data analysis using Python and Pandas:
-- Data filtering
-- Calculating totals
-- Pattern identification in sales dataset
+- Pandas Sales Analysis Project → https://github.com/mamehmathew.io/Sales_Data_Analysis_REPO
