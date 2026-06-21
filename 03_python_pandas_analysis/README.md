@@ -1,3 +1,3 @@
 ## Projects
 
-- Pandas Sales Analysis Project → https://github.com/mamehmathew.io/Sales_Data_Analysis_REPO
+- Pandas Sales Analysis Project → https://github.com/https://github.com/mamehmathewojoajogwu-lab/Sales_Data_Analysis
