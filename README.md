@@ -1,4 +1,4 @@
-# Dat# Data Analytics Learning Hub
+# Data Analytics Learning Hub
 
 This repository documents my learning journey in Data Analytics.
 
